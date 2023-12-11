@@ -1,0 +1,1 @@
+vless://5c110a50-6b3c-4bf2-83f6-10a1e6536da5@zula.ir:443?security=tls&type=ws&host=cdn.domin.space&headerType=&path=%2F&sni=cdn.domin.space&fp=&alpn=#%3A%29
