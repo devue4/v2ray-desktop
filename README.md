@@ -1,7 +1,7 @@
 # v2ray-desktop
 simple v2ray client python for windows
 <br>
-<p>run 
+<p>run
 <code>
 python app.py
 </code>
